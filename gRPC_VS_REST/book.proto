@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+service BookService {
+    rpc BookSearch(BookRequest) returns (BookResponse) {}
+}
+
+message BookRequest {
+    string search_query = 1;
+}
+
+message BookResponse {
+    string title = 1;
+    string description = 2;
+    string author = 3;
+}
