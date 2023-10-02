@@ -32,6 +32,6 @@ To maintain a positive and productive learning environment, please adhere to the
 To get started, simply clone this repository to your local machine and begin your learning journey. Feel free to create new directories or contribute to existing ones. There are no strict rules here, so unleash your creativity and curiosity!
 
 ```bash
-git clone https://github.com/your-username/learning-playground.git
-cd learning-playground
+git clone https://github.com/anjanavitthal/Learning-Playground.git
+cd Learning-Playground
 
